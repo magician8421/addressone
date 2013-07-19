@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CoordStore:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CoordStore.war">
+      <element id="artifact" artifact-name="CoordStore:war exploded" />
+    </root>
+  </artifact>
+</component>
